@@ -1,6 +1,6 @@
 # Campus Connect
 
-A MERN stack-based social media application.
+A MERN stack-based social media application for Web Technology Course Project.
 
 ---
 
